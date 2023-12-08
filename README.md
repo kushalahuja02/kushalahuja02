@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 
   
 -🔍 Find Me On:
-* GitHub: 	kushalahuja02
-* Kaggle: Kushal Ahuja
-* Tableau Public: Kushal Ahuja Tableau Profile
+* GitHub: 	kushalahuja02 - https://github.com/kushalahuja02 
+* Kaggle: Kushal Ahuja - https://www.kaggle.com/kushalahuja/code
+* Tableau Public: Kushal Ahuja Tableau Profile - https://public.tableau.com/app/profile/kushal.ahuja/vizzes
+
 📫 Contact Me: Feel free to reach out to me for collaborations, discussions, or just to say hi! 📧 Email: ahuja.kushal.au@gmail.com 
 
