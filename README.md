@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kushalahuja02/kushalahuja02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Kushal Ahuja
+### 👋 Hi, I’m Kushal Ahuja
 👀 About Me: I'm a data-obsessed professional with a passion for uncovering insights through analytics. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
 🌱 Skills & Expertise:
 * Programming Languages: Proficient in Python, R and SAS
