@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💞️ Collaboration: I’m enthusiastic about collaborating on innovative data analytics and data science projects. Whether it's sharing ideas, building models, or analyzing complex datasets, I’m ready to contribute and learn in the process.
 
   
--🔍 Find Me On:
+🔍 Find Me On:
 * GitHub: 	kushalahuja02 - https://github.com/kushalahuja02 
 * Kaggle: Kushal Ahuja - https://www.kaggle.com/kushalahuja/code
 * Tableau Public: Kushal Ahuja Tableau Profile - https://public.tableau.com/app/profile/kushal.ahuja/vizzes
