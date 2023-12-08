@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I’m Kushal Ahuja
 
-- 👀 About Me: I'm a data-obsessed professional with a passion for uncovering insights through analytics. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
+👀 About Me: I'm a data-obsessed professional with a passion for uncovering insights through analytics. My expertise has driven significant improvements in efficiency, productivity, and decision-making across various organizations. My approach combines rigorous analysis with a creative touch, turning complex data into actionable strategies.
 
 
-- 🌱 Skills & Expertise:
+🌱 Skills & Expertise:
 * Programming Languages: Proficient in Python, R and SAS
 * Database Management: Experienced in SQL with platforms like Snowflake, BigQuery, AzureSQL, and AWS Redshift.
 * Data Visualization and BI Tools: Skilled in PowerBI, Tableau, and MS Excel/Google Sheets.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 * Data Analysis Software: Adept in using RapidMiner and SPSS
 
 
-- 💞️ Collaboration: I’m enthusiastic about collaborating on innovative data analytics and data science projects. Whether it's sharing ideas, building models, or analyzing complex datasets, I’m ready to contribute and learn in the process.
+💞️ Collaboration: I’m enthusiastic about collaborating on innovative data analytics and data science projects. Whether it's sharing ideas, building models, or analyzing complex datasets, I’m ready to contribute and learn in the process.
 
   
 🔍 Find Me On:
